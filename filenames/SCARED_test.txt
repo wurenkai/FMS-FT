@@ -1,0 +1,8 @@
+testing/image_2/td1k4_10.png testing/image_3/td1k4_10.png testing/disp_occ_0/td1k4_10.png
+testing/image_2/td2k3_10.png testing/image_3/td2k3_10.png testing/disp_occ_0/td2k3_10.png
+testing/image_2/td3k1_10.png testing/image_3/td3k1_10.png testing/disp_occ_0/td3k1_10.png
+testing/image_2/td6k1_10.png testing/image_3/td6k1_10.png testing/disp_occ_0/td6k1_10.png
+testing/image_2/td6k2_10.png testing/image_3/td6k2_10.png testing/disp_occ_0/td6k2_10.png
+testing/image_2/td6k3_10.png testing/image_3/td6k3_10.png testing/disp_occ_0/td6k3_10.png
+testing/image_2/td6k4_10.png testing/image_3/td6k4_10.png testing/disp_occ_0/td6k4_10.png
+testing/image_2/td6k5_10.png testing/image_3/td6k5_10.png testing/disp_occ_0/td6k5_10.png
