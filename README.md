@@ -4,11 +4,6 @@
   
   Renkai Wu, Pengchen Liang, Yinghao Liu, Yiqi Huang, Wangyan Li*, and Qing Chang* </br>
 
-  1 School of Microelectronics, Shanghai University, Shanghai, China</br>
-  2 Department of Surgery, Shanghai Key Laboratory of Gastric Neoplasms, Shanghai Institute of Digestive Surgery, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China</br>
-  3 College of science, University of Shanghai for Science and Technology, Shanghai, China</br>
-  4 Department of Mathematics, Imperial College London, London, United Kingdom</br>
-  
 </div>
 
 ## News🚀
