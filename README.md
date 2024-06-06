@@ -6,12 +6,6 @@
 
 </div>
 
-## News🚀
-(2024.02.02) ***Upload the corresponding running code.*** 
-
-(2024.02.02) ***Manuscript submitted for review.*** 📃
-
-(2023.12.01) ***Project code base creation.***
 
 ***Note: Our paper is in the review stage. In the future, we will fully upload our code. The project is continuously updated...***
 
